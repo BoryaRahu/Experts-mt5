@@ -1,0 +1,6 @@
+Minimize_Risk=1
+one_trade_at_a_time=true
+TakeProfit=10
+StopLoss=10
+LotSize=0.1
+MagicNumber=786

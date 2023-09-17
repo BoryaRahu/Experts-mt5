@@ -1,0 +1,70 @@
+Index
+
+\Experts
+   \Orchard
+      \Framework EA
+            EA_Template.mq4
+            EA_Template.mq5
+            EA_Template.mqh
+            EA_Template_1.0.mq4
+            EA_Template_1.0.mq5
+         \MA Crossover
+               MA Crossover.mq4
+               MA Crossover.mq5
+         \MA Crossover ATR TPSL
+               MA Crossover ATR TPSL.mq4
+               MA Crossover ATR TPSL.mq5
+\Include
+   \Orchard
+      \Frameworks
+            Framework.mqh
+            MakeExtensionMQH.bat
+         \Extensions
+               AllExtensions.mqh
+               AllIndicators.mqh
+               AllSignals.mqh
+               AllTPSL.mqh
+            \Indicators
+                  IndicatorATR.mqh
+                  IndicatorMA.mqh
+                  IndicatorTemplate.mqh
+            \Signals
+                  SignalCombination.mqh
+                  SignalCrossover.mqh
+                  SignalTemplate.mqh
+            \TPSL
+                  TPSLSimple.mqh
+                  TPSLTemplate.mqh
+         \Framework_1.00
+               CommonBase.mqh
+               ExpertBase.mqh
+               Framework.mqh
+            \Indicators
+                  AllIndicators.mqh
+                  IndicatorBase.mqh
+               \Average
+                     IndicatorMA.mqh
+            \Signals
+                  AllSignals.mqh
+                  SignalBase.mqh
+               \Crossover
+                     SignalCrossover.mqh
+            \Trade
+                  Trade.mqh
+                  Trade_mql4.mqh
+                  Trade_mql5.mqh
+         \Framework_2.04
+               CommonBase.mqh
+               ExpertBase.mqh
+               Framework.mqh
+               IndicatorBase.mqh
+               SignalBase.mqh
+               TPSLBase.mqh
+               Updates.txt
+            \Trade
+                  Trade.mqh
+                  Trade_mql4.mqh
+                  Trade_mql5.mqh
+\Readme
+      How to install the Framework V1.0.url
+      How to install the Framework V2.x.url

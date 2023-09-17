@@ -1,0 +1,17 @@
+_base_==========Basic settings=========
+MultiCurrency=AUDNZD,NZDCAD,AUDCAD
+comment=forexcracked.com
+FirstPositionp=1
+nmbrThisServer=1
+long_holidays=true
+_mm_==========Money Management Settings=========
+OnlyOneSymbol=false
+BaseForLotCalc=0
+fix_balance=0.0
+USD_for_001=2000
+Lots=0.01
+_aver_==========Averaging Settings=========
+UseUnloss=true
+LotsMartinp=2.5
+_grid_==========Grid Level Settings=========
+FirstNumberp=3
