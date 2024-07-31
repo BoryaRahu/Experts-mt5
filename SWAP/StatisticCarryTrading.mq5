@@ -1,7 +1,7 @@
 //+------------------------------------------------------------------+
-//|                                        StatisticCarryTrading.mq5 |
-//|                                  Copyright 2012, Ruslan V. Lunev |
-//|                              http://www.mql5.com/ru/articles/491 |
+//|                                        
+//|                                 |
+//|                               |
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2012, Ruslan V. Lunev"
 #property link      "http://www.mql5.com/ru/articles/491"
